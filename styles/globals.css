@@ -1,0 +1,37 @@
+@font-face {
+  font-family: 'Saiyan Sans';
+  src: url('/Saiyan-Sans.ttf');
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Saiyan Sans', -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  background-image: url('/room-spirit.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  font-size: 21px;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    /* color-scheme: dark; */
+  }
+  body {
+    /* color: rgb(178, 186, 194);
+    background: rgb(0 30 60); */
+  }
+}
