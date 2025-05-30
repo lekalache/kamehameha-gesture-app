@@ -1,22 +1,22 @@
-# Kamehameha Gesture Detection App
+# Kamehameha Gesture App
 
-A Dragon Ball Z-inspired web application that uses machine learning to detect hand gestures and trigger Kamehameha attacks! Built with Next.js, TensorFlow.js, and MediaPipe.
+**Application de détection de gestes inspirée de Dragon Ball Z** utilisant l'intelligence artificielle pour reconnaître les mouvements en temps réel.
 
-## Features
+## 🎯 Démo
+**Visitez :** [https://kameha.vercel.app/](https://kameha.vercel.app/)
 
-- 🥋 Real-time hand gesture detection using TensorFlow.js and MediaPipe
-- ⚡ Dragon Ball Z-themed UI with energy bars and visual effects
-- 🎮 Interactive gesture-based gameplay
-- 📱 Responsive design that works on desktop and mobile
-- 🎨 Custom animations and sound effects
+## 🚀 Technologies
+- **Next.js** - Framework React pour applications web
+- **TensorFlow.js** - Machine learning dans le navigateur  
+- **MediaPipe** - Pipeline de perception temps réel
+- **React** - Interface utilisateur componentisée
 
-## Technologies Used
+## ⚡ Fonctionnalités
+Détection gestuelle temps réel • Animations Kamehameha • Interface thématique DBZ • IA embarquée navigateur
 
-- **Next.js** - React framework for web applications
-- **TensorFlow.js** - Machine learning in the browser
-- **MediaPipe** - Real-time perception pipeline
-- **React** - Component-based UI library
-- **CSS3** - Animations and styling
+---
+
+*Application web déployée sur Vercel, démontrant l'intégration de l'IA dans des expériences interactives immersives.*
 
 ## Getting Started
 
